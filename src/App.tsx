@@ -14,7 +14,7 @@ function App() {
           To learn Git
         </p>
         <p>
-          Change git crediential of IntelliJ
+          Change git crediential of IntelliJ1
         </p>
         <a
           className="App-link"
