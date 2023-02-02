@@ -19,7 +19,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Git
+          Learn Git to change committer
         </a>
       </header>
     </div>
