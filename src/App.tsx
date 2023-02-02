@@ -13,6 +13,9 @@ function App() {
         <p>
           To learn Git
         </p>
+        <p>
+          Change git crediential of IntelliJ
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
