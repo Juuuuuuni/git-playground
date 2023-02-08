@@ -19,10 +19,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn HEAD
-          Learn Git to change committer
-          Checkout pre commit
-          Learn Git to change committer
+          Learn Git
         </a>
       </header>
     </div>
