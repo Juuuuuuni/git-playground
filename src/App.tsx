@@ -22,6 +22,7 @@ function App() {
           Learn HEAD
           Learn Git to change committer
           Checkout pre commit
+          Learn Git to change committer
         </a>
       </header>
     </div>
