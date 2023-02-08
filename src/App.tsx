@@ -20,6 +20,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn Git to change committer
+          Checkout pre commit
         </a>
       </header>
     </div>
